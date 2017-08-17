@@ -1,0 +1,66 @@
+{
+    "intents": [
+        {
+            "slots": [
+                {
+                    "name": "Name",
+                    "type": "AMAZON.Person"
+                },
+                {
+                    "name": "phoneNum",
+                    "type": "AMAZON.NUMBER"
+                }
+            ],
+            "intent": "SaveMyFriendsPhone"
+        },
+        {
+            "slots": [
+                {
+                    "name": "Name",
+                    "type": "AMAZON.Person"
+                },
+                {
+                   "name": "phoneNum",
+                   "type": "AMAZON.NUMBER"
+                }
+            ],
+            "intent": "updateMyFriendsContact"
+        },
+        {
+            "slots": [
+                {
+                    "name": "Name",
+                    "type": "AMAZON.Person"
+                }
+            ],
+            "intent": "SMSMyLocation"
+        },
+        {
+            "slots": [
+                {
+                    "name": "Name",
+                    "type": "AMAZON.Person"
+                }
+            ],
+            "intent": "deleteMyFriendsContact"
+        },
+        {
+            "slots": [
+                {
+                    "name": "Name",
+                    "type": "AMAZON.Person"
+                }
+            ],
+            "intent": "saveMyName"
+        },
+        {
+            "intent": "AMAZON.HelpIntent"
+        },
+        {
+            "intent": "AMAZON.CancelIntent"
+        },
+        {
+            "intent": "AMAZON.StopIntent"
+        }
+    ]
+}

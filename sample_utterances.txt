@@ -1,0 +1,36 @@
+SaveMyFriendsPhone to save {Name} as {phoneNum}
+SaveMyFriendsPhone save {Name} as {phoneNum}
+SaveMyFriendsPhone store {Name} as {phoneNum}
+SaveMyFriendsPhone to store {Name} as {phoneNum}
+SaveMyFriendsPhone add {Name} as {phoneNum}
+SaveMyFriendsPhone to add {Name} as {phoneNum}
+
+updateMyFriendsContact update {Name} as {phoneNum}
+updateMyFriendsContact change {Name} to {phoneNum}
+updateMyFriendsContact to update {Name} as {phoneNum}
+updateMyFriendsContact to change {Name} to {phoneNum}
+
+SMSMyLocation send my location to {Name}
+SMSMyLocation send {Name} my location
+SMSMyLocation to send my location to {Name}
+SMSMyLocation to send {Name} my location
+SMSMyLocation notify my location to {Name}
+SMSMyLocation notify {Name} my location  
+SMSMyLocation to notify my location to {Name}
+SMSMyLocation to notify {Name} my location 
+
+deleteMyFriendsContact to remove {Name} from contacts
+deleteMyFriendsContact to remove {Name}
+deleteMyFriendsContact remove {Name} from contacts
+deleteMyFriendsContact remove {Name}
+deleteMyFriendsContact to delete {Name} from contacts
+deleteMyFriendsContact delete {Name} from contacts
+deleteMyFriendsContact to delete {Name}
+deleteMyFriendsContact delete {Name}
+
+saveMyName to save my name is {Name}
+saveMyName to store my name as {Name}
+saveMyName my name is {Name}
+saveMyName store my name as {Name}
+saveMyName Hi I am {Name}
+saveMyName Hello I am {Name}

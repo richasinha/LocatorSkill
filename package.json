@@ -1,0 +1,29 @@
+{
+    "name": "SMS-location",
+    "version": "0.0.1",
+    "description": "Will search for nearest places and SMS it to a contact stored",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "Amazon",
+        "echo",
+        "alexa",
+        "dot",
+        "places",
+        "api",
+        "google",
+        "maps",
+        "places",
+        "SNS"
+    ],
+    "author": "Richa Sinha <sinhrich@amazon.com> ",
+    "dependencies": {
+        "@google/maps": "^0.3.0",
+        "alexa-sdk": "git+https://github.com/alexa/alexa-skill-sdk-for-nodejs.git",
+        "q": "^1.4.1",
+        "aws-sdk": "^2.2.15",
+        "google-contacts": "git+https://github.com/richasinha/Google-Contacts.git"
+    }
+}
